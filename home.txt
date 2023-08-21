@@ -1,0 +1,4 @@
+create
+(1) array chuncking
+(2) create an object with two methods sum and product
+(3) binary search
